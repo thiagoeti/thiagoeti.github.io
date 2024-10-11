@@ -1,0 +1,62 @@
+{"data":[
+	{
+		"uri": "docker-portainer",
+		"title": "Docker - Portainer",
+		"content": "Tool for management of container in Docker.",
+		"hash": ["docker", "portainer"],
+		"social": {
+			"github": "https://github.com/thiagoeti/docker-portainer",
+			"medium": "https://medium.com/@thiago.eti/docker-portainer-cd01a1cfca91",
+			"dev": "https://dev.to/thiagoeti/docker-portainer-kd0",
+			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7204310323435126784"
+		}
+	},
+	{
+		"uri": "docker-mariadb",
+		"title": "Docker - MariaDB",
+		"content": "Database popular among developers.",
+		"hash": ["docker", "mariadb"],
+		"social": {
+			"github": "https://github.com/thiagoeti/docker-mariadb",
+			"medium": "https://medium.com/@thiago.eti/docker-mariadb-f30ffcbec715",
+			"dev": "https://dev.to/thiagoeti/docker-mariadb-4n2c",
+			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7206076722637611008"
+		}
+	},
+	{
+		"uri": "php-hyperf-overhead-circuit-breaker",
+		"title": "PHP HyperF -> Overhead + Circuit Breaker",
+		"content": "This test execute calc of Fibonacci to show how HyperF behaves with overload, after use the maximum CPU and requests, the next requests do not respond, the system get into a circuit breaker.",
+		"hash": ["php", "hyperf", "overhead", "circuitbreaker"],
+		"social": {
+			"github": "https://github.com/thiagoeti/php-hyperf-overhead-circuit-breaker",
+			"medium": "https://medium.com/@thiago.eti/php-hyperf-overhead-circuit-breaker-9fe680e5fb47",
+			"dev": "https://dev.to/thiagoeti/php-hyperf-overhead-circuit-breaker-2fg2",
+			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7208650177748836353"
+		}
+	},
+	{
+		"uri": "php-hyperf-mariadb-async-parallel",
+		"title": "PHP HyperF + MariaDB -> Async / Parallel",
+		"content": "System test for executing database queries in parallel or asynchronously.",
+		"hash": ["php", "hyperf", "mariadb", "async", "parallel"],
+		"social": {
+			"github": "https://github.com/thiagoeti/php-hyperf-mariadb-async-parrallel",
+			"medium": "https://medium.com/@thiago.eti/php-hyperf-mariadb-async-parallel-4b7c8dfe06ba",
+			"dev": "https://dev.to/thiagoeti/php-hyperf-mariadb-async-parallel-4aj5",
+			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7211156189848473600"
+		}
+	},
+	{
+		"uri": "php-hyperf-overlapping-and-concurrency",
+		"title": "PHP HyperF -> Overlapping and Concurrency",
+		"content": "It is extremely important that HyperF processes do not overwrite shared variable data. This can occur with overload.",
+		"hash": ["php", "hyperf", "overlapping", "concurrency"],
+		"social": {
+			"github": "https://github.com/thiagoeti/php-hyperf-overlapping-concurrency",
+			"medium": "https://medium.com/@thiago.eti/php-hyperf-overlapping-and-concurrency-ba788552f49b",
+			"dev": "https://dev.to/thiagoeti/php-hyperf-overlapping-and-concurrency-35ja",
+			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7212255097030926336"
+		}
+	}
+]}
