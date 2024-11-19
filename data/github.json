@@ -1,5 +1,17 @@
 {"data":[
 	{
+		"uri": "desktop",
+		"title": "Desktop",
+		"content": "Apps and Containers for development desktop.",
+		"hash": ["so", "docker", "apps", "languages", "development"],
+		"social": {
+			"github": "https://github.com/thiagoeti/desktop",
+			"medium": "",
+			"dev": "",
+			"linkedin": ""
+		}
+	},
+	{
 		"uri": "docker-portainer",
 		"title": "Docker - Portainer",
 		"content": "Tool for management of container in Docker.",
