@@ -3,12 +3,12 @@
 		"uri": "desktop",
 		"title": "Desktop",
 		"content": "Apps and Containers for development desktop.",
-		"hash": ["so", "docker", "apps", "languages", "development"],
+		"hash": ["so", "docker", "apps", "development"],
 		"social": {
 			"github": "https://github.com/thiagoeti/desktop",
-			"medium": "",
-			"dev": "",
-			"linkedin": ""
+			"medium": "https://medium.com/@thiago.eti/desktop-f2c6c752eb3f",
+			"dev": "https://dev.to/thiagoeti/desktop-lad",
+			"linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7264757125111799808"
 		}
 	},
 	{
