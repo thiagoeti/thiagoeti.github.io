@@ -1,80 +1,692 @@
 {"data":[
 	{
-		"uri": "cs-lewis-cartas-a-malcolm",
-		"label": "C.S. Lewis - Cartas a Malcolm",
-		"author": "C.S. Lewis",
-		"title": "Cartas a Malcolm",
-		"content": "Publicado em 1964, após o falecimento do autor, \"Cartas a Malcolm\" teve sua edição brasileira lançada em 2019. Nesta obra, C.S. Lewis conduz uma conversa epistolar com um amigo fictício, abordando uma variedade de temas relacionados ao cristianismo, com ênfase especial na oração. O livro oferece uma perspectiva íntima e pessoal das reflexões de Lewis sobre a oração, apresentadas em um estilo informal e conversacional, por vezes até mesmo humorístico. O autor também compartilha breves detalhes de sua vida pessoal nas cartas.\n\nAo longo das cartas, somos convidados a refletir não apenas sobre a oração, mas também sobre questões como a fé, vida espiritual, igreja, sistemas litúrgicos, costumes e sexualidade. Lewis fornece insights profundos e perspicazes, defendendo veementemente a importância da vida de oração, incluindo aspectos como horário específico, postura adequada e conteúdo das preces. O autor questiona a pertinência e importância de uma causa ser apresentada a Cristo quando, em vez disso, seria mais apropriado agir diretamente em vez de apenas orar.\n\nEm uma das cartas, Lewis desmembra a oração do Pai Nosso em várias partes, oferecendo uma análise detalhada de cada uma delas. Ele aborda uma ampla gama de questões práticas e teológicas, como a natureza da oração, sua eficácia, o problema do sofrimento e a relação entre a oração e a vontade de Deus.\n\n\"Cartas a Malcolm\" é elogiado por sua sinceridade, profundidade e clareza de pensamento. Considerado uma obra valiosa para quem busca compreender melhor a oração e a vida espiritual, o livro permanece como uma das obras mais populares de C.S. Lewis até os dias atuais.",
-		"hash": ["books", "cslewis"],
-		"social": {
-			"medium": "",
-			"dev": "",
-			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7238471229307838464"
-		}
+		"uri": "_deus-biblia",
+		"author": "DEUS",
+		"title": "Bíblia",
+		"subtitle": ""
 	},
 	{
-		"uri": "cs-lewis-cristianismo-puro-e-simples",
-		"label": "C.S. Lewis - Cristianismo Puro e Simples",
-		"author": "C.S. Lewis",
-		"title": "Cristianismo Puro e Simples",
-		"content": "Este livro foi publicado em diferentes anos: 1942, 1943, 1944 e 1952, pois o conteúdo foi apresentado durante a 2° guerra mundial em forma de palestras radiofônicas. Em meio ao caos e à aflição desse período tumultuado, havia a busca por uma voz capaz de confortar as pessoas diante dos horrores vividos na guerra. A obra busca apresentar os princípios fundamentais da fé cristã de uma maneira acessível e clara, sem pretenção de converter, mas retratar a essência do que é a raiz do cristianismo verdadeiro, ou o que é ser um cristão sem a complexidade religiosa.\n\nO autor optou por uma abordagem que apela à razão antes de qualquer tentativa de evangelização, reconhecendo as dificuldades de alcançar as pessoas comuns meio às turbulências da vida naquele momento histórico. Diferentemente da igreja, que muitas vezes falhava nessa missão, ele adotou um caminho que valorizava o entendimento e a compreensão racional.\n\nAlém disso, o livro faz referência a outras obras, como \"A Abolição do Homem\", que explora a natureza das leis morais inerentes ao ser humano, a qual deliberadamente tendemos a ignorar, embora carreguemos a centelha divina da lei escrita em nossos corações, ou seja, a consciência que nos permite discernir entre o certo e o errado. Na última parte, a obra aborda a trindade e faz diversas alusões ao Novo Testamento, embora não sejam citadas explicitamente, evidenciando a proximidade de pensamento.\n\nÉ interessante notar que \"As Crônicas de Nárnia\" compartilham elementos desta obra, ampliando assim o alcance e a influência desses princípios fundamentais da fé cristã em diferentes contextos literários.",
-		"hash": ["books", "cslewis"],
-		"social": {
-			"medium": "",
-			"dev": "",
-			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7185389467711528960"
-		}
+		"uri": "alfredo-soares-bora-vender",
+		"author": "Alfredo Soares",
+		"title": "Bora Vender",
+		"subtitle": ""
 	},
 	{
-		"uri": "cs-lewis-a-abolicao-do-homem",
-		"label": "C.S. Lewis - A Abolição de Homem",
-		"author": "C.S. Lewis",
-		"title": "A Abolição de Homem",
-		"content": "Publicado originalmente na Universidade de Oxford em 1944, este livro é uma obra breve, com apenas 123 páginas, mas de grande importância. Sua edição brasileira ocorreu em 2017 pela editora Thomas Nelson. O texto aborda a busca humana pela liberdade e adverte sobre os perigos de reduzir a vida humana a meros padrões racionais. Tal caminho, alerta o autor, pode levar à própria destruição do homem, ao remover instintos, valores, amor e outros elementos de sensibilidade que são intrinsecamente humanos, deixando apenas o pensamento racional. O relativismo em relação aos sentimentos e virtudes humanas é criticado como uma das mais graves distorções da sociedade moderna.\n\nEmbora escrito há décadas, o conteúdo do livro permanece surpreendentemente atual. Na época de sua publicação, já se discutia sobre obras que deturpavam a mente das crianças, como o autor exemplifica ao criticar um livro chamado \"verde\" com esse propósito. Atualmente, vemos esforços semelhantes, conduzidos por figuras da esquerda brasileira, como Felipe Neto, e outros, que tentam corromper o pensamento das crianças utilizando métodos similares, e em alguns casos mais graves, obras de literatura infantil com conteúdo doutrinário sexual.\n\nO autor também observa que a sociedade contemporânea tenta doutrinar a remoção da virtude do homem, mas depois se surpreende com a aparição de traidores em seu meio. Homens são incentivados a serem castrados mentalmente, e então essa mesma sociedade cobra fertilidade e virtude. Essa contradição fundamental é um tema central do livro, ressoando profundamente na sociedade atual.",
-		"hash": ["books", "cslewis"],
-		"social": {
-			"medium": "",
-			"dev": "",
-			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7182837366326214656"
-		}
+		"uri": "amy-cuddy-o-poder-da-presenca",
+		"author": "Amy Cuddy",
+		"title": "O Poder da Presença",
+		"subtitle": ""
 	},
 	{
-		"uri": "cs-lewis-cartas-de-um-diabo-a-seu-aprendiz",
-		"label": "C.S. Lewis - Cartas de Um Diabo a Seu Aprendiz",
-		"author": "C.S. Lewis",
+		"uri": "antoine-de-saint-exupery-pequeno-principe",
+		"author": "Antoine de Saint-Exupéry",
+		"title": "O Pequeno Príncipe",
+		"subtitle": ""
+	},
+	{
+		"uri": "arthur-bender-personal-branding",
+		"author": "Arthur Bender",
+		"title": "Personal Branding",
+		"subtitle": ""
+	},
+	{
+		"uri": "arthur-schopenhauer-a-arte-de-ter-razao",
+		"author": "Arthur Schopenhauer",
+		"title": "A Arte de Ter Razão",
+		"subtitle": ""
+	},
+	{
+		"uri": "augusto-cury-felicidade-roubada",
+		"author": "Augusto Cury",
+		"title": "Felicidade Roubada",
+		"subtitle": ""
+	},
+	{
+		"uri": "austin-kleon-mostre-seu-trabalho",
+		"author": "Austin Kleon",
+		"title": "Mostre seu Trabalho",
+		"subtitle": ""
+	},
+	{
+		"uri": "austin-kleon-roube-como-um-artista",
+		"author": "Austin Kleon",
+		"title": "Roube Como um Artista",
+		"subtitle": ""
+	},
+	{
+		"uri": "austin-kleon-siga-em-frente",
+		"author": "Austin Kleon",
+		"title": "Siga em Frente",
+		"subtitle": ""
+	},
+	{
+		"uri": "ayn-rand-a-revolta-de-atlas",
+		"author": "Ayn Rand",
+		"title": "A Revolta de Atlas",
+		"subtitle": ""
+	},
+	{
+		"uri": "benjamin-graham-o-investidor-inteligente",
+		"author": "Benjamin Graham",
+		"title": "O Investidor Inteligente",
+		"subtitle": ""
+	},
+	{
+		"uri": "brennan-manning-o-evangelho-maltrapilho",
+		"author": "Brennan Manning",
+		"title": "O Evangelho Maltrapilho",
+		"subtitle": ""
+	},
+	{
+		"uri": "brian-tracy-comece-pelo-mais-dificil",
+		"author": "Brian Tracy",
+		"title": "Comece Pelo Mais Difícil",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-a-abolicao-do-homem",
+		"author": "C. S. Lewis",
+		"title": "A Abolição do Homem",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-a-ultima-noite-do-mundo",
+		"author": "C. S. Lewis",
+		"title": "Á Última Noite do Mundo",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-anatomia-de-um-luto",
+		"author": "C. S. Lewis",
+		"title": "Anatomia de Um Luto",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-ate-que-tenhamos-rosto",
+		"author": "C. S. Lewis",
+		"title": "Até Que Tenhamos Rosto",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-cartas-a-malcon",
+		"author": "C. S. Lewis",
+		"title": "Cartas a Malcon",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-cartas-de-um-diabo-a-seu-aprendiz",
+		"author": "C. S. Lewis",
 		"title": "Cartas de Um Diabo a Seu Aprendiz",
-		"content": "Esta obra é uma leitura que já desfrutei por pelo menos três vezes, e devo confessar que sou um grande admirador, possuindo toda a coleção de C.S. Lewis. Publicado pela primeira vez em 1942, este livro é uma fusão inteligente de humor e reflexão teológica. Nele, encontramos uma série de cartas fictícias redigidas por um demônio chamado Screwtape para seu sobrinho, um demônio novato chamado Vermebile. Nessas correspondências, são oferecidos conselhos sobre como tentar corromper um cristão, manipulando suas fraquezas e dúvidas. Por meio dessa trama, somos conduzidos a uma perspectiva irônica da natureza humana, enquanto exploramos as estratégias que Satanás pode empregar para desviar as pessoas do caminho da virtude e da fé. A obra revela, de forma astuta, a luta espiritual e os aspectos da natureza humana que estão em jogo.\n\nEscrita por um dos mais renomados autores britânicos, esta obra é considerada não apenas uma das mais conhecidas, mas também uma das mais influentes de sua bibliografia.",
-		"hash": ["books", "cslewis"],
-		"social": {
-			"medium": "",
-			"dev": "",
-			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7179447222197993472"
-		}
+		"subtitle": ""
 	},
 	{
-		"uri": "cs-lewis-os-quatro-amores",
-		"label": "C.S. Lewis - Os Quatro Amores",
-		"author": "C.S. Lewis",
+		"uri": "c-s-lewis-cristianismo-puro-e-simples",
+		"author": "C. S. Lewis",
+		"title": "Cristianismo Puro e Simples",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-deus-no-banco-dos-reus",
+		"author": "C. S. Lewis",
+		"title": "Deus no Banco dos Réus",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-milagres",
+		"author": "C. S. Lewis",
+		"title": "Milagres",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-o-assunto-do-ceu",
+		"author": "C. S. Lewis",
+		"title": "O Assunto do Céu",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-o-grande-divorcio",
+		"author": "C. S. Lewis",
+		"title": "O Grande Divórcio",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-o-peso-da-gloria",
+		"author": "C. S. Lewis",
+		"title": "O Peso da Glória",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-o-problema-da-dor",
+		"author": "C. S. Lewis",
+		"title": "O Problema da Dor",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-os-quatro-amores",
+		"author": "C. S. Lewis",
 		"title": "Os Quatro Amores",
-		"content": "Publicado pela primeira vez em 1960, este livro explora diferentes formas de amor e relacionamentos humanos, de acordo com a perspectiva cristã e filosófica de Lewis. Ao longo do livro, Lewis explora as características únicas de cada tipo de amor, suas virtudes e limitações, e como esses diferentes tipos de amor se manifestam na vida cotidiana das pessoas. Ele também discute como esses tipos de amor podem ser distorcidos ou corrompidos quando não são cultivados de maneira saudável.",
-		"hash": ["books", "cslewis"],
-		"social": {
-			"medium": "",
-			"dev": "",
-			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7175244383032664064"
-		}
+		"subtitle": ""
 	},
 	{
-		"uri": "cs-lewis-sobre-historias",
-		"label": "C.S. Lewis - Sobre Histórias",
-		"author": "C.S. Lewis",
+		"uri": "c-s-lewis-reflexoes-cristas",
+		"author": "C. S. Lewis",
+		"title": "Reflexões Cristãs",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-regresso-do-peregrino",
+		"author": "C. S. Lewis",
+		"title": "Regresso do Peregrino",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-sobre-historias",
+		"author": "C. S. Lewis",
 		"title": "Sobre Histórias",
-		"content": "Ler os livros de C.S. Lewis pode ser uma experiência profundamente enriquecedora e gratificante. Lewis foi um escritor excepcionalmente talentoso, conhecido por sua habilidade em criar mundos imaginativos e transmitir conceitos complexos de uma forma acessível e cativante.",
-		"hash": ["books", "cslewis"],
-		"social": {
-			"medium": "",
-			"dev": "",
-			"linkedin": "https://linkedin.com/feed/update/urn:li:activity:7170083058199478272"
-		}
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-surpreendido-pela-algria",
+		"author": "C. S. Lewis",
+		"title": "Surpreendido Pela Algria",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-todo-meu-caminho-diante-de-mim",
+		"author": "C. S. Lewis",
+		"title": "Todo Meu Caminho Diante de Mim",
+		"subtitle": ""
+	},
+	{
+		"uri": "c-s-lewis-um-experimento-em-critica-literaria",
+		"author": "C. S. Lewis",
+		"title": "Um Experimento em Crítica Literaria",
+		"subtitle": ""
+	},
+	{
+		"uri": "caio-carneiro-enfodere-se",
+		"author": "Caio Carneiro",
+		"title": "Enfodere-se",
+		"subtitle": ""
+	},
+	{
+		"uri": "caio-carneiro-seja-foda",
+		"author": "Caio Carneiro",
+		"title": "Seja Foda",
+		"subtitle": ""
+	},
+	{
+		"uri": "carol-s-dweck-mindset",
+		"author": "Carol S. Dweck",
+		"title": "Mindset",
+		"subtitle": ""
+	},
+	{
+		"uri": "chris-bailey-hiperfoco",
+		"author": "Chris Bailey",
+		"title": "Hiperfoco",
+		"subtitle": ""
+	},
+	{
+		"uri": "chris-voss-tahl-raz-negocie-como-se-sua-vida-dependese-disso",
+		"author": "Chris Voss / Tahl Raz",
+		"title": "Negocie Como se Sua Vida Dependese Disso",
+		"subtitle": ""
+	},
+	{
+		"uri": "christian-barbosa-a-triade-do-tempo",
+		"author": "Christian Barbosa",
+		"title": "A Tríade do Tempo",
+		"subtitle": ""
+	},
+	{
+		"uri": "dan-brown-fortaleza-digital",
+		"author": "Dan Brown",
+		"title": "Fortaleza Digital",
+		"subtitle": ""
+	},
+	{
+		"uri": "daniel-goleman-inteligencia-emocional",
+		"author": "Daniel Goleman",
+		"title": "Inteligência Emocional",
+		"subtitle": ""
+	},
+	{
+		"uri": "davi-lago-marcelo-galuppo-um-dia-sem-reclamar",
+		"author": "Davi Lago / Marcelo Galuppo",
+		"title": "Um Dia Sem Reclamar",
+		"subtitle": ""
+	},
+	{
+		"uri": "david-goggins-nada-pode-me-ferir",
+		"author": "David Goggins",
+		"title": "Nada Pode Me Ferir",
+		"subtitle": ""
+	},
+	{
+		"uri": "eckhart-tolle-o-poder-do-agora",
+		"author": "Eckhart Tolle",
+		"title": "O Poder do Agora",
+		"subtitle": ""
+	},
+	{
+		"uri": "ethan-kross-a-voz-na-sua-cabeca",
+		"author": "Ethan Kross",
+		"title": "A Voz na sua Cabeça",
+		"subtitle": ""
+	},
+	{
+		"uri": "flavio-augusto-da-silva-geracao-de-valor-v1",
+		"author": "Flávio Augusto da Silva",
+		"title": "Geração de Valor - V1",
+		"subtitle": ""
+	},
+	{
+		"uri": "gary-keller-jay-papasan-a-unica-coisa",
+		"author": "Gary Keller / Jay Papasan",
+		"title": "A Única Coisa",
+		"subtitle": ""
+	},
+	{
+		"uri": "george-k-simon-como-lidar-com-pessoas-manipuladoras",
+		"author": "George K. Simon",
+		"title": "Como Lidar com Pessoas Manipuladoras",
+		"subtitle": ""
+	},
+	{
+		"uri": "george-s-clason-o-homem-mais-rico-da-babilonia",
+		"author": "George S. Clason",
+		"title": "O Homem Mais Rico da Babilônia",
+		"subtitle": ""
+	},
+	{
+		"uri": "geraldo-rufino-o-poder-da-positividade",
+		"author": "Geraldo Rufino",
+		"title": "O Poder da Positividade",
+		"subtitle": ""
+	},
+	{
+		"uri": "grant-cardone-venda-ou-seja-vendido",
+		"author": "Grant Cardone",
+		"title": "Venda ou Seja Vendido",
+		"subtitle": ""
+	},
+	{
+		"uri": "greg-mckeown-essencialismo",
+		"author": "Greg McKeown",
+		"title": "Essencialismo",
+		"subtitle": ""
+	},
+	{
+		"uri": "gustavo-ferreira-gatilhos-mentais",
+		"author": "Gustavo Ferreira",
+		"title": "Gatilhos Mentais",
+		"subtitle": ""
+	},
+	{
+		"uri": "hal-elrod-o-milagre-da-manha",
+		"author": "Hal Elrod",
+		"title": "O Milagre da Manhã",
+		"subtitle": ""
+	},
+	{
+		"uri": "ichiro-kishimi-e-fumitake-koga-a-coragem-de-nao-agradar",
+		"author": "Ichiro Kishimi / Fumitake Koga",
+		"title": "A Coragem de Não Agradar",
+		"subtitle": ""
+	},
+	{
+		"uri": "jacob-petry-as-16-leis-do-sucesso",
+		"author": "Jacob Petry",
+		"title": "16 Leis do Sucesso",
+		"subtitle": ""
+	},
+	{
+		"uri": "jacob-petry-poder-e-manipulacao",
+		"author": "Jacob Petry",
+		"title": "Poder e Manipulação",
+		"subtitle": ""
+	},
+	{
+		"uri": "james-allen-o-homem-e-aquilo-que-ele-pensa",
+		"author": "James Allen",
+		"title": "O Homem é Aquilo Que Ele Pensa",
+		"subtitle": ""
+	},
+	{
+		"uri": "james-c-hunter-como-se-tornar-um-lider-servidor",
+		"author": "James C. Hunter",
+		"title": "O Monge e o Executivo",
+		"subtitle": ""
+	},
+	{
+		"uri": "james-c-hunter-de-volta-ao-mosteiro",
+		"author": "James C. Hunter",
+		"title": "Os Princípios de Liderança de o Monge e o Executivo",
+		"subtitle": ""
+	},
+	{
+		"uri": "james-c-hunter-o-monge-e-o-executivo",
+		"author": "James C. Hunter",
+		"title": "De Volta ao Mosteiro",
+		"subtitle": ""
+	},
+	{
+		"uri": "james-clear-habitos-atomicos",
+		"author": "James Clear",
+		"title": "Hábitos Atômicos",
+		"subtitle": ""
+	},
+	{
+		"uri": "jim-collins-empresas-feitas-para-vencer",
+		"author": "Jim Collins",
+		"title": "Empresas Feitas para Vencer",
+		"subtitle": ""
+	},
+	{
+		"uri": "joseph-murphy-o-poder-do-subconsciente",
+		"author": "Joseph Murphy",
+		"title": "O Poder do Subconsciente",
+		"subtitle": ""
+	},
+	{
+		"uri": "malcolm-gladwell-fora-de-serie-outliers",
+		"author": "Malcolm Gladwell",
+		"title": "Fora de série - Outliers",
+		"subtitle": ""
+	},
+	{
+		"uri": "mark-manson-a-sutil-arte-de-ligar-o-foda-se",
+		"author": "Mark Manson",
+		"title": "A Sutil Arte de Ligar o Foda-Se",
+		"subtitle": ""
+	},
+	{
+		"uri": "morgan-housel-a-psicologia-financeira",
+		"author": "Morgan Housel",
+		"title": "A Psicologia Financeira",
+		"subtitle": ""
+	},
+	{
+		"uri": "napoleon-hill-a-chave-mestra-das-riquezas",
+		"author": "Napoleon Hill",
+		"title": "A Chave Mestra das Riquezas",
+		"subtitle": ""
+	},
+	{
+		"uri": "napoleon-hill-a-ciencia-do-sucesso",
+		"author": "Napoleon Hill",
+		"title": "A Ciência Do Sucesso",
+		"subtitle": ""
+	},
+	{
+		"uri": "napoleon-hill-as-regras-de-ouro",
+		"author": "Napoleon Hill",
+		"title": "As Regras de Ouro",
+		"subtitle": ""
+	},
+	{
+		"uri": "napoleon-hill-habitos-dos-milionarios",
+		"author": "Napoleon Hill",
+		"title": "Hábitos dos Milhonários",
+		"subtitle": ""
+	},
+	{
+		"uri": "napoleon-hill-mais-esperto-que-o-diabo",
+		"author": "Napoleon Hill",
+		"title": "Mais Esperto Que o Diabo",
+		"subtitle": ""
+	},
+	{
+		"uri": "napoleon-hill-o-seu-direito-de-ser-rico",
+		"author": "Napoleon Hill",
+		"title": "O Seu Direito de Ser Rico",
+		"subtitle": ""
+	},
+	{
+		"uri": "napoleon-hill-quem-pensa-enriquece",
+		"author": "Napoleon Hill",
+		"title": "Quem Pensa Enriquece",
+		"subtitle": ""
+	},
+	{
+		"uri": "nassim-nicholas-taleb-antifragil",
+		"author": "Nassim Nicholas Taleb",
+		"title": "Antifrágil",
+		"subtitle": ""
+	},
+	{
+		"uri": "nicholas-boothman-como-convencer-alguem-em-90-segundos",
+		"author": "Nicholas Boothman",
+		"title": "Como Convencer Alguém em 90 Segundos",
+		"subtitle": ""
+	},
+	{
+		"uri": "nicolau-maquiavel-o-principe",
+		"author": "Nicolau Maquiavel",
+		"title": "O Príncipe",
+		"subtitle": ""
+	},
+	{
+		"uri": "og-mandino-o-maior-vendedor-do-mundo",
+		"author": "Og Mandino",
+		"title": "O Maior Vendedor do Mundo",
+		"subtitle": ""
+	},
+	{
+		"uri": "pablo-marcal-antimedo",
+		"author": "Pablo Marçal",
+		"title": "Pior Ano da Sua Vida",
+		"subtitle": ""
+	},
+	{
+		"uri": "pablo-marcal-os-codigos-do-milhao",
+		"author": "Pablo Marçal",
+		"title": "Os Códigos do Milhão",
+		"subtitle": ""
+	},
+	{
+		"uri": "pablo-marcal-pior-ano-da-sua-vida",
+		"author": "Pablo Marçal",
+		"title": "Antimedo",
+		"subtitle": ""
+	},
+	{
+		"uri": "paulo-vieira-o-poder-da-acao",
+		"author": "Paulo Vieira",
+		"title": "O Poder da Ação",
+		"subtitle": ""
+	},
+	{
+		"uri": "reinaldo-domingos-dinheiro-sem-segredo",
+		"author": "Reinaldo Domingos",
+		"title": "Dinheiro sem Segredo",
+		"subtitle": ""
+	},
+	{
+		"uri": "renato-amoedo-alan-schramm-bitcoin-red-pill",
+		"author": "Renato Amoedo / Alan Schramm",
+		"title": "Bitcoin Red Pill",
+		"subtitle": ""
+	},
+	{
+		"uri": "rhonda-byrne-o-segredo",
+		"author": "Rhonda Byrne",
+		"title": "O Segredo",
+		"subtitle": ""
+	},
+	{
+		"uri": "robert-greene-33-estrategias-para-guerra",
+		"author": "Robert Greene",
+		"title": "33 Estratégias de Guerra",
+		"subtitle": ""
+	},
+	{
+		"uri": "robert-greene-a-arte-da-seducao",
+		"author": "Robert Greene",
+		"title": "A Arte da Sedução",
+		"subtitle": ""
+	},
+	{
+		"uri": "robert-greene-as-48-leis-do-poder",
+		"author": "Robert Greene",
+		"title": "As 48 Leis do Poder",
+		"subtitle": ""
+	},
+	{
+		"uri": "robert-kiyosaki-pai-rico-pai-pobre",
+		"author": "Robert T. Kiyosaki",
+		"title": "Pai rico, Pai pobre",
+		"subtitle": ""
+	},
+	{
+		"uri": "roger-fisher-william-ury-bruce-patton-como-chegar-ao-sim",
+		"author": "Roger Fisher / William Ury / Bruce Patton",
+		"title": "Como Chegar ao Sim",
+		"subtitle": ""
+	},
+	{
+		"uri": "ryan-holiday-o-ego-e-seu-inimigo",
+		"author": "Ryan Holiday",
+		"title": "O Ego é Seu Inimigo",
+		"subtitle": ""
+	},
+	{
+		"uri": "simon-sinek-comece-pelo-porque",
+		"author": "Simon Sinek",
+		"title": "Comece Pelo Porquê",
+		"subtitle": ""
+	},
+	{
+		"uri": "simon-sinek-o-jogo-infinito",
+		"author": "Simon Sinek",
+		"title": "O Jogo Infinito",
+		"subtitle": ""
+	},
+	{
+		"uri": "spencer-johnson-quem-mexeu-no-meu-queijo",
+		"author": "Spencer Johnson",
+		"title": "Quem Mexeu no meu Queijo?",
+		"subtitle": ""
+	},
+	{
+		"uri": "steven-k-scott-salomao-o-homem-mais-rico-que-ja-existiu",
+		"author": "Steven K. Scott",
+		"title": "Salomão, O Homem Mais Rico Que Já Existiu",
+		"subtitle": ""
+	},
+	{
+		"uri": "sun-tzu-a-arte-da-guerra",
+		"author": "Sun Tzu",
+		"title": "A Arte da Guerra",
+		"subtitle": ""
+	},
+	{
+		"uri": "t-harv-eker-os-segredos-da-mente-milionaria",
+		"author": "T. Harv Eker",
+		"title": "Os Segredos da Mente Milionária",
+		"subtitle": ""
+	},
+	{
+		"uri": "thiago-nigro-do-mil-ao-milhao",
+		"author": "Thiago Nigro",
+		"title": "Do Mil ao Milhão",
+		"subtitle": ""
+	},
+	{
+		"uri": "thomas-j-stanley-william-d-danko-o-milionario-mora-ao-lado",
+		"author": "Thomas J. Stanley / William D. Danko",
+		"title": "O Milionário Mora ao Lado",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-12-dias-para-atualizar-sua-vida",
+		"author": "Tiago Brunet",
+		"title": "12 Dias Para Atualizar Sua Vida",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-descubra-o-seu-destino",
+		"author": "Tiago Brunet",
+		"title": "Descubra o Seu Destino",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-dinheiro-e-emocional",
+		"author": "Tiago Brunet",
+		"title": "Dinheiro é Emocional",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-emocoes-inteligentes",
+		"author": "Tiago Brunet",
+		"title": "Emoções Inteligentes",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-especialista-em-pessoas",
+		"author": "Tiago Brunet",
+		"title": "Especialista em Pessoas",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-o-maior-poder-do-mundo",
+		"author": "Tiago Brunet",
+		"title": "O Maior Poder do Mundo",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-o-problema-e-seu",
+		"author": "Tiago Brunet",
+		"title": "O Problema é Seu",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-principios-milenares",
+		"author": "Tiago Brunet",
+		"title": "Princípios Milenares",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-rumo-ao-lugar-desejado",
+		"author": "Tiago Brunet",
+		"title": "Rumo ao Lugar Desejado",
+		"subtitle": ""
+	},
+	{
+		"uri": "tiago-brunet-sabedoria",
+		"author": "Tiago Brunet",
+		"title": "Sabedoria",
+		"subtitle": ""
+	},
+	{
+		"uri": "timothy-ferriss-trabalhe-4-horas-por-semana",
+		"author": "Timothy Ferriss",
+		"title": "Trabalhe 4 Horas por Semana",
+		"subtitle": ""
+	},
+	{
+		"uri": "viktor-frankl-em-busca-de-sentido",
+		"author": "Viktor Frankl",
+		"title": "Em Busca de Sentido",
+		"subtitle": ""
+	},
+	{
+		"uri": "wallace-d-wattles-a-ciencia-de-ficar-rico",
+		"author": "Wallace D. Wattles",
+		"title": "A Ciência de Ficar Rico",
+		"subtitle": ""
+	},
+	{
+		"uri": "william-douglas-rubens-teixeira-as-25-leis-biblicas-do-sucesso",
+		"author": "William Douglas",
+		"title": "25 Leis Bíblicas do Sucesso",
+		"subtitle": ""
+	},
+	{
+		"uri": "william-h-mcraven-arrume-sua-cama",
+		"author": "William H. McRaven",
+		"title": "Arrume a Sua Cama",
+		"subtitle": ""
 	}
 ]}
